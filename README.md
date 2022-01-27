@@ -12,8 +12,7 @@
 
 ![goals](/analysis/Pyber_fare_summary.png)
 
-* These results came from ride-sharing data that included the total number of rides, total number of drivers, total dolalr amount of fares, average dollar amount of fare per ride and driver, and total dollar amount of fare by city type.
-* This data was used to compare the 3 different geopgrahical regions by look ing at "total ride count", "total dolalr amount of fares", "total number of drivers",
+* This data was used to compare the 3 different geopgrahical regions of city types by looking at "total number of rides by city type", "total dolalr amount of fares by city type", "total number of drivers by city type", average dollar amount of fare per ride and driver and total dollar amount of fare by city type.
 
 ![goals](Fig1.png)
 
@@ -21,25 +20,18 @@
 
 ![goals](Fig6.png)
 
-![goals](Fig5.png)
-
 ![goals](Fig3.png)
 
+![goals](Fig5.png)
+
 ![goals](Fig4.png)
-
-
-
-
 
 ![goals](Fig7.png)
 
 
 
 # Summary
-* After reviewing the data
-* There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
-
-In order to make ride-sharing more accessible across city types, 
-it would be necessary to implement a ride-sharing infrastructure that could seamlessly connect the three regions. 
-It would also be of importance that the service is affordable for all riders coming to or from any city. 
-These services need to be accessible in terms of affordability and also in commuting time, as it's likely that high costs or commute times would discourage riders from using these services as their primary method of transportation
+* The analysis points to 3 main recommendations by city type:
+    1. There are more rides than drivers in suburban areas, it will be difficult to keep up with demand with populations from core downtown's moving to these more affordable living areas coupled with the adoption of working from home becoming more popular. With that being said, we need to increase the number of drivers we have to offer in the suburban areas to decrease wait times and expand ride offerings. 
+    2. The core of the business is currently in urban downtown regions making up the majority of rides, in this area we have more drivers than rides being given therefore during peak hours we can increase our fares to to become profitable and making better use of our supply of drivers vs demand of riders.
+    3. Rural is the currently the smallest city type but should not be overlooked because it is the currently the most profitable at an average fare of $55.49 per driver and in addition to that there are currently more rides than drivers which could potentially mean we arent able to reach demand of rides with our current supply of drivers. As stated before, with working from home becoming more accepted we see a shift in populations moving to more rural areas, therefore we need to increase our driving offering in these areas to meet demand to maximize profits on the current market demand.
