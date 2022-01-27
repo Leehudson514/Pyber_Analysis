@@ -6,7 +6,7 @@
 
 # Results
 * The analysis of the data shows that there is a correlation between geographic region and number of rides. This means that urbans areas with a higher density of population take part in more rides, while more rural areas with smaller populations have far less rides recorded. Suburban areas met in the middle of both rural and ubran regions.
-* Rual had 125 rides and suburban had 625 rides while urban areas had 1625 rides over the same time duration.
+* Rural had 125 rides and suburban had 625 rides while urban areas had 1625 rides over the same time duration.
 
 ![goals](/analysis/ride_summary.PNG)
 
