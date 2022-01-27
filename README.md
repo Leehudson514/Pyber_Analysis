@@ -13,7 +13,7 @@
 
 ![goals](/analysis/Pyber_fare_summary.png)
 
-* This data was used to compare the 3 different geopgrahical regions of city types by looking at "total number of rides by city type", "total dolalr amount of fares by city type", "total number of drivers by city type", average dollar amount of fare per ride and driver and total dollar amount of fare by city type.
+* This data was used to compare the 3 different geopgrahical regions of city types by looking at "total number of rides by city type", "total dolalr amount of fares by city type", "total number of drivers by city type", " average dollar amount of fare per ride and driver" and "total dollar amount of fare by city type."
 
 ![goals](Fig1.png)
 
