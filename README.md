@@ -17,11 +17,11 @@
 
 ![goals](Fig1.png)
 
-![goals](Fig5.png)
-
 ![goals](Fig2.png)
 
 ![goals](Fig6.png)
+
+![goals](Fig5.png)
 
 ![goals](Fig3.png)
 
